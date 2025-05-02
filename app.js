@@ -10,7 +10,7 @@ const app = express();
 // ✅ Dynamic origin handling
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://navifymodel.netlify.app"
+  "http://navify.co.in"
 ];
 
 const corsOptions = {
