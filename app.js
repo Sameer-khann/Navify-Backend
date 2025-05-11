@@ -9,7 +9,7 @@ const app = express();
 
 // ✅ Dynamic origin handling
 const allowedOrigins = [
-  "http://localhost:5173",
+  // "http://localhost:5173",
   "http://navify.co.in"
 ];
 
