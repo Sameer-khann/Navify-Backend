@@ -11,7 +11,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://navify.co.in",
-  "https://navifymodel.netlify.app/"
+  "https://navifymodel.netlify.app"
 ];
 
 const corsOptions = {
